@@ -29,7 +29,7 @@ This project is a simple PHP-based application for managing classes and students
 
 1. **Clone the repository:**
    ```bash
-   git clone 
+   git clone https://github.com/lovisha-khatri/school_demo.git
    cd repository-name
    ```
 
@@ -54,14 +54,8 @@ This project is a simple PHP-based application for managing classes and students
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
----
 
 ### Notes:
-- Replace `your/repository.git` with your actual repository URL.
 - Ensure to include any specific setup instructions or prerequisites that are unique to your project.
 - Customize the features and technologies sections based on the actual functionalities and technologies used in your project.
 
